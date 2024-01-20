@@ -17,7 +17,8 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap&labelColor=000)
-[![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.NET&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-000?style=flat-square&labelColor=%000&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
+
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=flat-square&labelColor=000&logo=openai&logoColor=white)
