@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ricardogenesi/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ricardogenesi22@gmail.com)
 
+
 ## Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
