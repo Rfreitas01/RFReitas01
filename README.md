@@ -7,6 +7,7 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/ricardogenesi22)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](e-mail:ricardogenesi22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ricardogenesi/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ricardogenesi22@gmail.com?subject=Assunto do e-mail&body=Corpo do e-mail)
 
 ## Habilidades
 
