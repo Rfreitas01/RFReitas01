@@ -22,6 +22,9 @@
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=flat-square&labelColor=000&logo=openai&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=000)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=000)](https://powerbi.microsoft.com/)
+
 
 
 ## GitHub 
